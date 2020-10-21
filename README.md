@@ -1,2 +1,2 @@
 # ticketsonlinecfg
-Repository for the ticketsonlinemicrosvc project.
+Configuration repository for the ticketsonlinemicrosvcs' configuration service.
